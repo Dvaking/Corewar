@@ -1,4 +1,4 @@
-# 🎮 CoreWar
+# CoreWar 🎮
 Epitech project
 
 ## Table of Contents
