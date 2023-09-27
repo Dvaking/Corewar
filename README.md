@@ -25,7 +25,7 @@ The aim of this project is to **reproduce the game Core War** whit **this virtua
 ## Technologies
 
 
-![C](https://img.shields.io/badge/Language_C-Dvaking?style=for-the-badge&color=blue&link=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FC_(langage))
+[![C](https://img.shields.io/badge/Language_C-Dvaking?style=for-the-badge&color=blue&link=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FC_(langage))](https://fr.wikipedia.org/wiki/C_(langage))
 
 
-![Libmy_C](https://img.shields.io/badge/Libmy_C-Dvaking?style=for-the-badge&color=red&link=https%3A%2F%2Fgithub.com%2FDvaking%2FLibrary%2Ftree%2Fmain%2FLib_C)
+[![Libmy_C](https://img.shields.io/badge/Libmy_C-Dvaking?style=for-the-badge&color=red&link=https%3A%2F%2Fgithub.com%2FDvaking%2FLibrary%2Ftree%2Fmain%2FLib_C)](https://github.com/Dvaking/Library/tree/main/Lib_C)
